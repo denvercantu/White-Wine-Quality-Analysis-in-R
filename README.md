@@ -6,6 +6,9 @@
 
 ## Resources for Analysis:
 Wine Quality Information - (https://www.etslabs.com/analyses/DEN)/
+
 ggplot Cheat Sheet - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fraw.githubusercontent.com%2Frstudio%2Fcheatsheets%2Fmain%2Fdata-visualization.pdf&clen=1949514&chunk=true/
+
 R Documentation - https://www.rdocumentation.org/packages/ggstatsplot/versions/0.1.44/
+
 Plot Guides - http://www.sthda.com/english/wiki/ggplot2-stripchart-jitter-quick-start-guide-r-software-and-data-visualization/
